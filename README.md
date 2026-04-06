@@ -1,4 +1,4 @@
-# Nicaragua Import Tax & Inspection Prediction
+# Nicaragua Import Inspection Prediction
 
 ## 📌 Objective
 
